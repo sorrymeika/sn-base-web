@@ -26,7 +26,7 @@ exports.logger = {
 };
 
 exports.security = {
-    domainWhiteList: ['http://localhost:10020', 'http://localhost:10100'],
+    domainWhiteList: ['http://www.big1024.com'],
     csrf: {
         enable: false
     }
